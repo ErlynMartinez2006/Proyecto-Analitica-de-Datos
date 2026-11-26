@@ -1,0 +1,10 @@
+# Archivos generados al ejecutar 02_Preparacion_Datos.ipynb (se regeneran)
+data/modificado/
+data/entrenamiento/
+data/test/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
